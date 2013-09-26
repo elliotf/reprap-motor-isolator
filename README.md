@@ -1,4 +1,3 @@
-reprap-motor-isolator
-=====================
+# reprap-motor-isolator
 
-isolators for use on lasercut printers to reduce resonance
+isolators for use on lasercut printers to reduce resonance.  Designed to be lasercut out of cork
